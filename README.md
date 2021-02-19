@@ -69,17 +69,17 @@ If you navigate to `http://localhost/pdfbooks/dashboard`, you will be asked for 
 
 ### Contact
 
-- [Github](https://github.com/salahineo) :octocat:
-- [LinkedIn](https://linkedin.com/in/salahineo) 💼
-- [Facebook](https://facebook.com/salahineo) 😎
-- [Twitter](https://twitter.com/salahineo) 🐤
-- [Website](https://salahineo.github.io/salahineo/) :globe_with_meridians:
-- <a href="mailto:salahineo.work@gmail.com">Email</a> :email:
+- [Github](https://github.com/ahmed12hesham) :octocat:
+- [LinkedIn](https://linkedin.com/in/ahmedhesham) 💼
+- [Facebook](https://facebook.com/ahmedhesham) 😎
+- [Twitter](https://twitter.com/ahmedhesham) 🐤
+- [Website](https://salahineo.github.io/ahmedetch/) :globe_with_meridians:
+- <a href="mailto:ahmed.programmerwebs@gmail.com">Email</a> :email:
 
 ### Copyright and license
 
 - **[GPLv3](https://www.gnu.org/licenses/gpl-3.0)**
-- **© 2020 | Mohamed Salah**
+- **© 2020 | Ahmed hesham mansour**
 
 ---
 
