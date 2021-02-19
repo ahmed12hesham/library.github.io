@@ -41,9 +41,9 @@ Here are the guidelines to run this project on your localhost:
 5. Open your browser, and type `http://localhost/phpmyadmin`, to open PHPMyAdmin home page
 6. Create a new database with the name `pdfBooks`
 7. Import the `pdfbooks.sql` file to this database (This file located in `sql` folder which exist in the `pdfbooks` folder)
-5. Open your browser, and type `http://localhost/pdfbooks`, to open the main page of the website
-6. Navigate to `http://localhost/pdfbooks/dashboard`, to open admin dashboard of the website
-
+8. Open your browser, and type `http://localhost/pdfbooks`, to open the main page of the website
+9. Navigate to `http://localhost/pdfbooks/dashboard`, to open admin dashboard of the website
+10.create a folder named uploads and in this folder make a two folders one named bookCovers and another named books
 
 ### Credentials
 
